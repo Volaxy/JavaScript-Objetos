@@ -13,3 +13,7 @@ URL do curso -> [JavaScript - Objetos](https://cursos.alura.com.br/course/fundam
 * A estrutura de um objeto literal no JavaScript é composta por pares de `chave: valor` separados por vírgula, dentro de chaves `{ }`;
 * Para acessar dados em um objeto podemos usar as notações de ponto e de colchete;
 * Para adicionar e manipular dados em um objeto precisamos saber como acessar suas propriedades.
+
+***
+
+## 02 - Manipulação de Objetos &#x1F516;
