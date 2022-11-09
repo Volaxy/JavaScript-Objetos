@@ -17,3 +17,6 @@ URL do curso -> [JavaScript - Objetos](https://cursos.alura.com.br/course/fundam
 ***
 
 ## 02 - Manipulação de Objetos &#x1F516;
+* Que para manipular objetos literais podemos utilizar os métodos do JavaScript para cada tipo de dado;
+* Que os valores em um objeto podem ser tipos primitivos (strings, números, booleanos e null), arrays ou outros objetos;
+* Que além das propriedades, também podemos atribuir funções que dão comportamento a um objeto.

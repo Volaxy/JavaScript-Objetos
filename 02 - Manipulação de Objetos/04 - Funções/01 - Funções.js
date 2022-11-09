@@ -20,8 +20,17 @@ let client = {
             type: "brother",
             age: 10
         },
-    ]
+    ],
+
+    balance: 200,
+
+    // To defines a function inside a object, the NAME is puted, followed by the ":" and the keyword "function"
+    // The function is associated with the object itself
+    deposit: function(value) {
+        this.balance += value;
+    }
 };
 
-console.log(client.dependents[0]);
-console.log(client.dependents[1]);
+console.log(client.balance);
+client.deposit(50);
+console.log(client.balance);
